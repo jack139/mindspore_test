@@ -64,5 +64,4 @@ target/
 
 test_result*/
 weights/
-cardnum/
-test_data/
+data/
